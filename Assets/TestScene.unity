@@ -147,6 +147,8 @@ MonoBehaviour:
   Speed: 5
   RotationSpeed: 0.1
   MaxSpeed: 2
+  SpecialAttack: 0
+  DashPower: 1
 --- !u!61 &128868413
 BoxCollider2D:
   m_ObjectHideFlags: 0
