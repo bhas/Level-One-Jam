@@ -21,8 +21,10 @@ public class EnemyOne : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+        
         Vector3 target = Player.transform.position;
         Vector3 dir = - Enemy.transform.position + Player.transform.position;
+ 
 
         Enemy.transform.Translate(dir.normalized*EnemySpeed/100);
 		
