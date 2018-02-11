@@ -42,3 +42,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 92364923
+    locked: 0
+  - name: Feet
+    uniqueID: 2250821761
+    locked: 0
+  - name: Body
+    uniqueID: 430019701
+    locked: 0
+  - name: Head
+    uniqueID: 707755279
+    locked: 0
+  - name: Bullet
+    uniqueID: 1581791965
+    locked: 0
+  - name: Weapon
+    uniqueID: 1258932705
+    locked: 0
